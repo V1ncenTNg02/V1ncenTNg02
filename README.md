@@ -1,4 +1,4 @@
-# Vincent-s-Repo :wink:
+# Vincent-s-Repo 	:sunglasses:
 Hey folks, what's up! Hope you had a nice day today. This is Vincent's repo, a place full of creativity, intelligence, and interesting stuff. I am a fresh developer interested in many areas, AI, ML, IoT, Architecture, etc. All of them are exciting, right? Let's learn and grow together. Don't limit yourself, just be brave and navigate into something you think is COOOOOOOL. To infinity and beyond! 
 
 ## Programming Languages :desktop_computer:
