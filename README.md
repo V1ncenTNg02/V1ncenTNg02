@@ -12,7 +12,7 @@ Hey folks, what's up! Hope you had a nice day today. This is Vincent's repo, a p
 
 ## Why am I developing? :monocle_face:
 I like to think from the perspective of underlying logic, and I like new technologies. That is the reason that motivated me to start my university study as a computer science student and my career as a developer. </br> </br>
-My ultimate career goal would be to become a DevOps engineer or an architect and have my own business and team to build something big. I don't want to limit myself to the IT industry, lest my brain get made up from 0 and 1.:exploding_head: I am willing to navigate different industries and adapt to new skills and knowledge. Finance, biotech, manufacturing, and even rubbish recycling, all of them are as exciting as AI. Let's stay curious about the world!
+My ultimate career goal would be to become a DevOps engineer or an architect and have my own business and team to build something big. I don't want to limit myself to the IT industry, lest my brain get made up from 0 and 1. :exploding_head: I am willing to navigate different industries and adapt to new skills and knowledge. Finance, biotech, manufacturing, and even rubbish recycling, all of them are as exciting as AI. Let's stay curious about the world!
 
 ## Let's stay connected and make something big together  :fist_right::fist_left: 
 I am an extrovert person and always looking for opportunities to meet new friends and learn from them. All of you must have your strengths and some programming languages, hobbies, and food you love, so why don't we share together? I am more than happy to connect with you guys, so don't be shy and feel free to reach out to me via LinkedIn, Instagram, or whatever. :point_left: Peace out!
